@@ -1,2 +1,2 @@
 # ebook-project
-ebook project
+flask, mysql, html, css
